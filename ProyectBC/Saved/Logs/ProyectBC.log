@@ -22,6 +22,7 @@ LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin AnimationSharing
@@ -30,6 +31,7 @@ LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin DataValidation
@@ -43,7 +45,6 @@ LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin TextureFormatOodle
 LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
@@ -67,7 +68,13 @@ LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin OpenImageDenoise
 LogPluginManager: Mounting plugin PlanarCut
@@ -99,19 +106,19 @@ LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
-LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
@@ -173,7 +180,7 @@ LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.27
-LogInit: Command Line:  -EpicPortal -epicusername=Inquisidor99 -epicuserid=9e390d17a9a74301abd68a256318e58c -epiclocale=es-MX -epicsandboxid=ue
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=743d47dc3cec416b810ecc4f5a70e276 -AUTH_TYPE=exchangecode -epicapp=UE_4.27 -epicenv=Prod -EpicPortal -epicusername=Inquisidor99 -epicuserid=9e390d17a9a74301abd68a256318e58c -epiclocale=es-MX -epicsandboxid=ue
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
