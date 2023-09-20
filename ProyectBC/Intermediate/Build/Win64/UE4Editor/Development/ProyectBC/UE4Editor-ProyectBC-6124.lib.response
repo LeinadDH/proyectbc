@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProyectBC-6124.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Azul 15\Documents\Repos\proyectbc\ProyectBC\Intermediate\Build\Win64\ProyectBCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Azul 15\Documents\Repos\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\ActorShuffle.cpp.obj"
+"C:\Users\Azul 15\Documents\Repos\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\ProyectBC.cpp.obj"
+"C:\Users\Azul 15\Documents\Repos\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\ActorShuffle.gen.cpp.obj"
+"C:\Users\Azul 15\Documents\Repos\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\ProyectBC.init.gen.cpp.obj"
+"C:\Users\Azul 15\Documents\Repos\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\Default.rc2.res"
+/OUT:"C:\Users\Azul 15\Documents\Repos\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\UE4Editor-ProyectBC-6124.lib"

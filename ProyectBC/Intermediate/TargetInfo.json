@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProyectBC",
+			"Path": "C:\\Users\\Azul 15\\Documents\\Repos\\proyectbc\\ProyectBC\\Source\\ProyectBC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProyectBCEditor",
+			"Path": "C:\\Users\\Azul 15\\Documents\\Repos\\proyectbc\\ProyectBC\\Source\\ProyectBCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

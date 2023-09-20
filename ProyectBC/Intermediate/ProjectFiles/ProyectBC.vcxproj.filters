@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProyectBC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{79AED00F-5D65-4C60-9836-E867D691F549}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProyectBC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProyectBCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A0CA91E9-6418-4870-BEF6-2B04C3B4743E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProyectBC">
+      <UniqueIdentifier>{B5C6D357-96B9-4644-AA8D-E42A0458A41E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProyectBC\ActorShuffle.cpp">
+      <Filter>Source\ProyectBC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProyectBC\ActorShuffle.h">
+      <Filter>Source\ProyectBC</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProyectBC\ProyectBC.Build.cs">
+      <Filter>Source\ProyectBC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProyectBC\ProyectBC.cpp">
+      <Filter>Source\ProyectBC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProyectBC\ProyectBC.h">
+      <Filter>Source\ProyectBC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
