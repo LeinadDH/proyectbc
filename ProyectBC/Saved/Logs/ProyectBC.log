@@ -30,6 +30,7 @@ LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PixWinPlugin
@@ -106,18 +107,20 @@ LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
-LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
-LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
@@ -145,6 +148,43 @@ LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
+LogInit: Warning: Incompatible or missing module: ProyectBC
+Running F:/Juegos/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="F:/Repositorios/Amerike/7mo/proyectbc/ProyectBC/ProyectBC.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (F:\Repositorios\Amerike\7mo\proyectbc).
+Creating makefile for ProyectBCEditor (.uproject file is newer)
+@progress push 5%
+Parsing headers for ProyectBCEditor
+  Running UnrealHeaderTool "F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\ProyectBC.uproject" "F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Intermediate\Build\Win64\ProyectBCEditor\Development\ProyectBCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\legos\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+LogInit: Display: Loading text-based GConfig....
+Reflection code generated for ProyectBCEditor in 17.7101431 seconds
+@progress pop
+Building ProyectBCEditor...
+Using Visual Studio 2022 14.35.32215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 8 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 11%
+  [1/9] Default.rc2
+  @progress 'Compiling C++ source code...' 22%
+  [2/9] SharedPCH.Engine.ShadowErrors.cpp
+  Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+  @progress 'Compiling C++ source code...' 33%
+  [3/9] ProyectBC.init.gen.cpp
+  @progress 'Compiling C++ source code...' 44%
+  [4/9] ActorShuffle.cpp
+  @progress 'Compiling C++ source code...' 56%
+  [5/9] ActorShuffle.gen.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [6/9] ProyectBC.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [7/9] UE4Editor-ProyectBC.lib
+     Creando biblioteca F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\UE4Editor-ProyectBC.lib y objeto F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\UE4Editor-ProyectBC.exp
+  @progress 'Compiling C++ source code...' 89%
+  [8/9] UE4Editor-ProyectBC.dll
+     Creando biblioteca F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\UE4Editor-ProyectBC.suppressed.lib y objeto F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\UE4Editor-ProyectBC.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [9/9] ProyectBCEditor.target
+Total time in Parallel executor: 40.30 seconds
+Total execution time: 92.85 seconds
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32

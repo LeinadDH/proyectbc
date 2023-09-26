@@ -1,0 +1,3 @@
+F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\Definitions.ProyectBC.h
+F:\Juegos\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Juegos\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,2 @@
+F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Intermediate\Build\Win64\UE4Editor\Development\ProyectBC\Definitions.ProyectBC.h
+F:\Repositorios\Amerike\7mo\proyectbc\ProyectBC\Source\ProyectBC\ProyectBC.h
