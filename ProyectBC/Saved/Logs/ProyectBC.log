@@ -23023,3 +23023,784 @@ Script Stack (0 frames):
 [2023.09.30-00.26.52:055][783]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_CardCC7419C046C63831676EC8A3BC7D321D.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
 [2023.09.30-00.26.52:075][783]AssetCheck: New page: Asset Save: W_Base_Card
 [2023.09.30-00.26.52:075][783]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.28.25:092][866]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.28.25:204][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.09.30-00.28.25:591][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.28.25:622][902]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_CardA82A71EE47C6CB246351E597D3E6248F.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.28.25:641][902]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.28.25:642][902]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.30.43:348][774]LogSlate: Took 0.001497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.09.30-00.35.31:436][684]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.35.31:558][684]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2023.09.30-00.35.32:039][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.35.32:075][729]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card0513FEB7429520A0857CC58C767875BD.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.35.32:097][729]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.35.32:097][729]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.35.46:712][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.35.46:748][406]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card60E2069C481F2E1FA6ACC798F68CDEC7.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.35.46:770][406]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.35.46:770][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.35.53:676][194]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.35.53:791][194]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2023.09.30-00.35.54:262][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.35.54:298][237]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card6EA7A7654B08C51D6CDF7488F8E54C88.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.35.54:317][237]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.35.54:317][237]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.35.57:361][516]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.35.57:369][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.35.57:369][516]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:35:57 PM)
+[2023.09.30-00.35.57:369][516]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.35.57:372][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002878s)
+[2023.09.30-00.35.57:373][516]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.35.57:374][516]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2023.09.30-00.35.57:374][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.004355s)
+[2023.09.30-00.35.57:426][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2023.09.30-00.35.57:427][516]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.09.30-00.35.57:427][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.35.57:427][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.35.57:427][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.35.57:427][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.35.57:427][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.35.57:427][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.35.57:427][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.35.57:427][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.35.57:428][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.35.57:428][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.35.57:428][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.35.57:428][516]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.35.57:433][516]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.35.57:433][516]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.35.57:449][516]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.35.57:450][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.35.57:450][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.35.57:450][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.35.57:450][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.35.57:450][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.35.57:450][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.35.57:451][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.35.57:451][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.35.57:451][516]LogInit: FAudioDevice initialized.
+[2023.09.30-00.35.57:451][516]LogAudio: Display: Audio Device (ID: 36) registered with world 'InputsUI'.
+[2023.09.30-00.35.57:459][516]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.35.57:460][516]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.35.57
+[2023.09.30-00.35.57:461][516]LogWorld: Bringing up level for play took: 0.000550
+[2023.09.30-00.35.57:461][516]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.09.30-00.35.57:465][516]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.35.57:465][516]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.35.57:465][516]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.35.57:465][516]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.35.57:465][516]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.35.57:465][516]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.35.57:466][516]PIE: Server logged in
+[2023.09.30-00.35.57:466][516]PIE: Play in editor total start time 0.098 seconds.
+[2023.09.30-00.36.16:585][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.09.30-00.36.16:598][386]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/InputsUI5E4530AC4CD88A403636108B5AACBAF6.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/Levels/TestInputsUI/InputsUI.umap'
+[2023.09.30-00.36.16:640][386]AssetCheck: New page: Asset Save: InputsUI
+[2023.09.30-00.36.16:640][386]LogContentValidation: Display: Validating World /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI
+[2023.09.30-00.36.21:389][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.36.21:389][797]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.36.21:389][797]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.36.21:389][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.36.21:400][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.36.21:413][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.36.21:454][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-00.36.21:460][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.36.21:461][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.36.21:464][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.36.21:479][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.09.30-00.36.21:511][798]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.09.30-00.36.29:915][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.36.29:951][680]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card2FAA5B284D6A250AE3BEC1B60DAD1169.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.36.29:970][680]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.36.29:970][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.36.34:606][175]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.36.34:612][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.36.34:612][175]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:36:34 PM)
+[2023.09.30-00.36.34:612][175]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.36.34:615][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002403s)
+[2023.09.30-00.36.34:616][175]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.36.34:616][175]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2023.09.30-00.36.34:616][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.003779s)
+[2023.09.30-00.36.34:664][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.09.30-00.36.34:666][175]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.09.30-00.36.34:666][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.36.34:666][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.36.34:666][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.36.34:666][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.36.34:666][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.36.34:666][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.36.34:666][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.36.34:666][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.36.34:667][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.36.34:667][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.36.34:667][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.36.34:667][175]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.36.34:671][175]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.36.34:671][175]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.36.34:688][175]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.36.34:688][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.36.34:688][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.36.34:688][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.36.34:688][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.36.34:688][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.36.34:688][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.36.34:690][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.36.34:690][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.36.34:690][175]LogInit: FAudioDevice initialized.
+[2023.09.30-00.36.34:690][175]LogAudio: Display: Audio Device (ID: 37) registered with world 'InputsUI'.
+[2023.09.30-00.36.34:698][175]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.36.34:699][175]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.36.34
+[2023.09.30-00.36.34:699][175]LogWorld: Bringing up level for play took: 0.000528
+[2023.09.30-00.36.34:700][175]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.09.30-00.36.34:704][175]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.36.34:704][175]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.36.34:704][175]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.36.34:704][175]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.36.34:704][175]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.36.34:704][175]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.36.34:704][175]PIE: Server logged in
+[2023.09.30-00.36.34:705][175]PIE: Play in editor total start time 0.094 seconds.
+[2023.09.30-00.37.01:449][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.37.01:449][783]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.37.01:449][783]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.37.01:449][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.37.01:461][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.37.01:473][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.37.01:514][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-00.37.01:514][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.37.01:515][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.37.01:518][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.37.01:523][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.09.30-00.37.01:556][784]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.09.30-00.40.01:485][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.40.01:521][336]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card6012A46346966929CB7CF3A669437490.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.40.01:543][336]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.40.01:543][336]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.40.01:904][375]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.40.01:987][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.09.30-00.40.02:351][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.40.02:388][406]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_CardE868513E4A372B33029047ABFC9A75CE.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.40.02:421][406]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.40.02:421][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.40.03:950][537]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.40.03:956][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.40.03:956][537]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:40:03 PM)
+[2023.09.30-00.40.03:956][537]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.40.03:960][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003135s)
+[2023.09.30-00.40.03:961][537]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.40.03:961][537]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2023.09.30-00.40.03:961][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.004896s)
+[2023.09.30-00.40.04:010][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2023.09.30-00.40.04:011][537]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.40.04:011][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.40.04:011][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.40.04:011][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.40.04:011][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.40.04:011][537]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.40.04:016][537]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.40.04:016][537]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.40.04:032][537]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.40.04:033][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.40.04:033][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.40.04:033][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.40.04:033][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.40.04:033][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.40.04:033][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.40.04:034][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.40.04:034][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.40.04:034][537]LogInit: FAudioDevice initialized.
+[2023.09.30-00.40.04:034][537]LogAudio: Display: Audio Device (ID: 38) registered with world 'InputsUI'.
+[2023.09.30-00.40.04:043][537]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.40.04:043][537]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.40.04
+[2023.09.30-00.40.04:043][537]LogWorld: Bringing up level for play took: 0.000547
+[2023.09.30-00.40.04:044][537]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.09.30-00.40.04:048][537]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.40.04:048][537]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.40.04:048][537]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.40.04:048][537]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.40.04:048][537]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.40.04:048][537]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.40.04:048][537]PIE: Server logged in
+[2023.09.30-00.40.04:049][537]PIE: Play in editor total start time 0.094 seconds.
+[2023.09.30-00.40.13:609][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.40.13:609][472]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.40.13:610][472]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.40.13:610][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.40.13:619][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.40.13:631][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.40.13:671][472]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-00.40.13:671][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.40.13:672][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.40.13:675][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.40.13:680][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.09.30-00.40.13:714][473]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.09.30-00.40.14:939][550]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.40.14:945][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.40.14:945][550]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:40:14 PM)
+[2023.09.30-00.40.14:945][550]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.40.14:948][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002560s)
+[2023.09.30-00.40.14:949][550]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.40.14:949][550]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2023.09.30-00.40.14:949][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.003905s)
+[2023.09.30-00.40.14:994][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.09.30-00.40.14:995][550]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.40.14:995][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.40.14:995][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.40.14:995][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.40.14:995][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.40.14:995][550]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.40.14:999][550]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.40.14:999][550]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.40.15:015][550]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.40.15:015][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.40.15:015][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.40.15:015][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.40.15:016][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.40.15:016][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.40.15:016][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.40.15:017][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.40.15:017][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.40.15:017][550]LogInit: FAudioDevice initialized.
+[2023.09.30-00.40.15:017][550]LogAudio: Display: Audio Device (ID: 39) registered with world 'InputsUI'.
+[2023.09.30-00.40.15:027][550]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.40.15:028][550]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.40.15
+[2023.09.30-00.40.15:029][550]LogWorld: Bringing up level for play took: 0.000497
+[2023.09.30-00.40.15:029][550]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2023.09.30-00.40.15:033][550]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.40.15:033][550]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.40.15:033][550]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.40.15:033][550]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.40.15:033][550]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.40.15:033][550]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.40.15:033][550]PIE: Server logged in
+[2023.09.30-00.40.15:034][550]PIE: Play in editor total start time 0.09 seconds.
+[2023.09.30-00.40.36:899][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.40.36:899][693]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.40.36:899][693]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.40.36:900][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.40.36:910][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.40.36:923][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.40.36:964][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.40.36:964][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.40.36:965][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.40.36:973][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.09.30-00.40.37:005][694]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.09.30-00.40.41:646][166]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.42:112][181]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.42:514][219]LogEditorTransaction: Undo Move Nodes
+[2023.09.30-00.40.42:930][261]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.43:308][299]LogEditorTransaction: Undo Delete current selection
+[2023.09.30-00.40.43:703][338]LogEditorTransaction: Undo Delete current selection
+[2023.09.30-00.40.44:165][387]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.44:571][425]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.44:895][458]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.45:222][491]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.09.30-00.40.45:566][526]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.45:871][556]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.46:206][589]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.46:554][624]LogEditorTransaction: Undo Paste clipboard contents
+[2023.09.30-00.40.46:913][659]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.47:282][696]LogEditorTransaction: Undo Add Node
+[2023.09.30-00.40.47:700][739]LogEditorTransaction: Undo Move Nodes
+[2023.09.30-00.40.48:097][780]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.48:477][819]LogEditorTransaction: Undo Move Nodes
+[2023.09.30-00.40.48:843][857]LogEditorTransaction: Undo Delete current selection
+[2023.09.30-00.40.49:554][935]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.09.30-00.40.50:983][ 86]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.51:611][155]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.52:031][197]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.52:418][237]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.52:963][295]LogEditorTransaction: Undo Paste clipboard contents
+[2023.09.30-00.40.53:728][379]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.09.30-00.40.54:220][430]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.09.30-00.40.54:619][472]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.09.30-00.40.55:035][516]LogEditorTransaction: Undo Change Bool Pin Value
+[2023.09.30-00.40.55:421][556]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.55:881][604]LogEditorTransaction: Undo Create Pin Link
+[2023.09.30-00.40.57:077][740]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.40.57:556][791]LogEditorTransaction: Undo Add Node
+[2023.09.30-00.41.02:601][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.41.02:638][370]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_CardC92382E6457300447C17638CB5E0822C.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.41.02:682][370]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.41.02:682][370]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.41.03:032][410]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.41.03:123][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2023.09.30-00.43.34:281][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.43.34:319][588]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card4A6F37F64351EA4388FB519457F87F0E.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.43.34:340][588]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.43.34:340][588]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.43.34:738][632]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.43.34:827][632]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2023.09.30-00.43.35:522][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.43.35:559][691]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card09EBC4FC49A6076CB7B3B388E5EBD180.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.43.35:576][691]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.43.35:576][691]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.43.39:284][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.43.39:320][ 86]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card68D2AD0847BB55A8252FA289E8F83A58.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.43.39:339][ 86]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.43.39:339][ 86]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.43.40:485][175]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.43.40:491][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.43.40:491][175]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:43:40 PM)
+[2023.09.30-00.43.40:491][175]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.43.40:494][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002588s)
+[2023.09.30-00.43.40:495][175]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.43.40:496][175]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2023.09.30-00.43.40:496][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.004259s)
+[2023.09.30-00.43.40:545][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.09.30-00.43.40:546][175]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.43.40:547][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.43.40:547][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.43.40:547][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.43.40:547][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.43.40:547][175]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.43.40:551][175]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.43.40:551][175]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.43.40:568][175]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.43.40:568][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.43.40:568][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.43.40:568][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.43.40:568][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.43.40:568][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.43.40:568][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.43.40:570][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.43.40:570][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.43.40:570][175]LogInit: FAudioDevice initialized.
+[2023.09.30-00.43.40:570][175]LogAudio: Display: Audio Device (ID: 40) registered with world 'InputsUI'.
+[2023.09.30-00.43.40:578][175]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.43.40:579][175]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.43.40
+[2023.09.30-00.43.40:579][175]LogWorld: Bringing up level for play took: 0.000536
+[2023.09.30-00.43.40:580][175]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.09.30-00.43.40:584][175]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.40:584][175]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.40:584][175]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.40:584][175]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.43.40:584][175]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.43.40:584][175]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.43.40:584][175]PIE: Server logged in
+[2023.09.30-00.43.40:585][175]PIE: Play in editor total start time 0.095 seconds.
+[2023.09.30-00.43.48:019][904]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.48:019][904]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.48:019][904]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.48:050][907]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.48:050][907]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.48:050][907]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.48:072][909]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.48:072][909]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.48:072][909]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.48:723][973]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.48:723][973]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.48:723][973]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.48:920][992]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.48:920][992]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.48:920][992]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.49:718][ 70]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.49:718][ 70]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.49:718][ 70]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.49:972][ 95]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.49:972][ 95]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.49:972][ 95]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:025][100]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:025][100]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:025][100]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:267][124]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:267][124]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:267][124]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:318][129]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:318][129]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:318][129]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:491][146]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:491][146]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:492][146]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:521][149]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:521][149]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:521][149]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:623][159]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:623][159]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:623][159]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:663][163]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:663][163]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:663][163]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:695][166]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:695][166]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:695][166]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:815][178]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:815][178]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:815][178]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:845][181]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:845][181]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:845][181]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.50:917][188]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:917][188]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:917][188]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.50:947][191]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:947][191]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.50:947][191]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:049][201]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:049][201]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:049][201]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:071][203]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.51:071][203]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.51:071][203]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.43.51:151][211]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:151][211]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:152][211]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:172][213]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:172][213]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:172][213]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:242][220]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:242][220]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:242][220]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:291][225]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:291][225]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:292][225]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 1
+[2023.09.30-00.43.51:435][239]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:435][239]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.51:435][239]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.43.56:169][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.43.56:169][690]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.43.56:169][690]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.43.56:170][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.43.56:181][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.43.56:193][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.43.56:233][690]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-00.43.56:234][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.43.56:235][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.43.56:237][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.43.56:242][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.09.30-00.43.56:275][691]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.09.30-00.44.29:580][303]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.44.29:660][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.09.30-00.44.30:048][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.44.30:084][337]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card555440B847C4D7D5797182B92C30A53D.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.44.30:102][337]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.44.30:102][337]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.44.32:063][500]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.44.32:069][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.44.32:069][500]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:44:32 PM)
+[2023.09.30-00.44.32:069][500]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.44.32:072][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002927s)
+[2023.09.30-00.44.32:073][500]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.44.32:073][500]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2023.09.30-00.44.32:073][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.004241s)
+[2023.09.30-00.44.32:124][500]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2023.09.30-00.44.32:125][500]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.44.32:125][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.44.32:125][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.44.32:125][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.44.32:125][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.44.32:125][500]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.44.32:130][500]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.44.32:130][500]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.44.32:145][500]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.44.32:145][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.44.32:145][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.44.32:145][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.44.32:146][500]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.44.32:146][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.44.32:146][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.44.32:147][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.44.32:147][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.44.32:147][500]LogInit: FAudioDevice initialized.
+[2023.09.30-00.44.32:147][500]LogAudio: Display: Audio Device (ID: 41) registered with world 'InputsUI'.
+[2023.09.30-00.44.32:157][500]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.44.32:159][500]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.44.32
+[2023.09.30-00.44.32:159][500]LogWorld: Bringing up level for play took: 0.000589
+[2023.09.30-00.44.32:159][500]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.09.30-00.44.32:163][500]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.44.32:163][500]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.44.32:164][500]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.44.32:164][500]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.44.32:164][500]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.44.32:164][500]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.44.32:164][500]PIE: Server logged in
+[2023.09.30-00.44.32:165][500]PIE: Play in editor total start time 0.096 seconds.
+[2023.09.30-00.44.51:629][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.44.51:629][388]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.44.51:629][388]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.44.51:629][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.44.51:640][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.44.51:652][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.44.51:693][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-00.44.51:694][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.44.51:695][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.44.51:697][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.44.51:702][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.09.30-00.44.51:736][389]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.09.30-00.45.12:024][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/DT_Cards" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/DT_Cards.uasset" SILENT=true
+[2023.09.30-00.45.12:025][704]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/DT_Cards40BB3B1F487F55A9F614D0B2FF677431.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/DT_Cards.uasset'
+[2023.09.30-00.45.12:043][704]AssetCheck: New page: Asset Save: DT_Cards
+[2023.09.30-00.45.12:043][704]LogContentValidation: Display: Validating DataTable /Game/LazySheeps/DataSets/DT_Cards.DT_Cards
+[2023.09.30-00.45.18:000][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/DT_Cards" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/DT_Cards.uasset" SILENT=true
+[2023.09.30-00.45.18:001][402]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/DT_Cards30C33F3345DC8BFC1F28CDBA6937B070.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/DT_Cards.uasset'
+[2023.09.30-00.45.18:019][402]AssetCheck: New page: Asset Save: DT_Cards
+[2023.09.30-00.45.18:019][402]LogContentValidation: Display: Validating DataTable /Game/LazySheeps/DataSets/DT_Cards.DT_Cards
+[2023.09.30-00.46.08:929][ 78]LogEditorTransaction: Undo Paste clipboard contents
+[2023.09.30-00.46.09:799][136]LogEditorTransaction: Undo Move Node
+[2023.09.30-00.46.11:031][262]LogEditorTransaction: Undo Paste clipboard contents
+[2023.09.30-00.46.24:972][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.46.25:009][734]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card34953D7A431ED41D0C5B35A94F84CF9C.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.46.25:028][734]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.46.25:028][734]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.46.25:543][791]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.46.25:630][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2023.09.30-00.46.26:756][873]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.46.26:763][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.46.26:763][873]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:46:26 PM)
+[2023.09.30-00.46.26:763][873]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.46.26:766][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002939s)
+[2023.09.30-00.46.26:767][873]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.46.26:767][873]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2023.09.30-00.46.26:767][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.004370s)
+[2023.09.30-00.46.26:813][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2023.09.30-00.46.26:814][873]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.09.30-00.46.26:814][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.46.26:814][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.46.26:814][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.46.26:814][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.46.26:814][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.46.26:814][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.46.26:814][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.46.26:814][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.46.26:815][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.46.26:815][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.46.26:815][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.46.26:815][873]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.46.26:819][873]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.46.26:819][873]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.46.26:834][873]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.46.26:835][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.46.26:835][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.46.26:835][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.46.26:835][873]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.46.26:835][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.46.26:835][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.46.26:836][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.46.26:836][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.46.26:836][873]LogInit: FAudioDevice initialized.
+[2023.09.30-00.46.26:836][873]LogAudio: Display: Audio Device (ID: 42) registered with world 'InputsUI'.
+[2023.09.30-00.46.26:848][873]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.46.26:849][873]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.46.26
+[2023.09.30-00.46.26:849][873]LogWorld: Bringing up level for play took: 0.000479
+[2023.09.30-00.46.26:849][873]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.09.30-00.46.26:854][873]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.46.26:854][873]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.46.26:854][873]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.46.26:854][873]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.46.26:854][873]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.46.26:854][873]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.46.26:854][873]PIE: Server logged in
+[2023.09.30-00.46.26:855][873]PIE: Play in editor total start time 0.093 seconds.
+[2023.09.30-00.46.26:922][879]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.46.26:922][879]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.46.26:922][879]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 2
+[2023.09.30-00.46.33:059][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.46.33:059][474]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.46.33:059][474]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.46.33:059][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.46.33:065][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.46.33:077][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.46.33:117][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-00.46.33:117][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.46.33:118][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.46.33:120][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.46.33:125][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.09.30-00.46.33:157][475]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.09.30-00.46.33:666][510]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.46.33:673][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.46.33:673][510]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:46:33 PM)
+[2023.09.30-00.46.33:673][510]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.46.33:676][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002888s)
+[2023.09.30-00.46.33:677][510]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.46.33:677][510]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2023.09.30-00.46.33:677][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.004159s)
+[2023.09.30-00.46.33:721][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.09.30-00.46.33:722][510]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.46.33:722][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.46.33:722][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.46.33:722][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.46.33:722][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.46.33:722][510]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.46.33:726][510]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.46.33:726][510]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.46.33:742][510]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.46.33:742][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.46.33:742][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.46.33:742][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.46.33:742][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.46.33:743][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.46.33:743][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.46.33:744][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.46.33:744][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.46.33:744][510]LogInit: FAudioDevice initialized.
+[2023.09.30-00.46.33:744][510]LogAudio: Display: Audio Device (ID: 43) registered with world 'InputsUI'.
+[2023.09.30-00.46.33:756][510]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.46.33:757][510]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.46.33
+[2023.09.30-00.46.33:757][510]LogWorld: Bringing up level for play took: 0.000488
+[2023.09.30-00.46.33:758][510]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.09.30-00.46.33:762][510]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.46.33:762][510]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.46.33:762][510]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.46.33:762][510]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.46.33:762][510]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.46.33:762][510]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.46.33:762][510]PIE: Server logged in
+[2023.09.30-00.46.33:763][510]PIE: Play in editor total start time 0.091 seconds.
+[2023.09.30-00.46.48:338][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.46.48:338][846]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.46.48:339][846]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.46.48:339][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.46.48:348][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.46.48:359][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.46.48:399][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.46.48:400][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.46.48:401][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.46.48:408][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.09.30-00.46.48:440][847]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.09.30-00.47.15:697][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LazySheeps/DataSets/W_Base_Card" FILE="../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset" SILENT=true
+[2023.09.30-00.47.15:735][859]LogSavePackage: Moving '../../../../../../Repositorios/proyectbc/ProyectBC/Saved/W_Base_Card1BA920E7428DE6A26277C684DA6EA993.tmp' to '../../../../../../Repositorios/proyectbc/ProyectBC/Content/LazySheeps/DataSets/W_Base_Card.uasset'
+[2023.09.30-00.47.15:754][859]AssetCheck: New page: Asset Save: W_Base_Card
+[2023.09.30-00.47.15:754][859]LogContentValidation: Display: Validating WidgetBlueprint /Game/LazySheeps/DataSets/W_Base_Card.W_Base_Card
+[2023.09.30-00.47.16:058][891]BlueprintLog: New page: Compile W_Base_Card
+[2023.09.30-00.47.16:141][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.09.30-00.47.18:669][103]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.47.18:676][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.47.18:676][103]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:47:18 PM)
+[2023.09.30-00.47.18:676][103]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.47.18:679][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002948s)
+[2023.09.30-00.47.18:680][103]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.47.18:680][103]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2023.09.30-00.47.18:680][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.004340s)
+[2023.09.30-00.47.18:726][103]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2023.09.30-00.47.18:727][103]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.09.30-00.47.18:727][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.47.18:727][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.47.18:727][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.47.18:727][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.47.18:727][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.47.18:727][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.47.18:727][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.47.18:727][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.47.18:728][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.47.18:728][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.47.18:728][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.47.18:728][103]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.47.18:732][103]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.47.18:732][103]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.47.18:747][103]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.47.18:748][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.47.18:748][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.47.18:748][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.47.18:748][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.47.18:748][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.47.18:748][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.47.18:749][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.47.18:749][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.47.18:749][103]LogInit: FAudioDevice initialized.
+[2023.09.30-00.47.18:749][103]LogAudio: Display: Audio Device (ID: 44) registered with world 'InputsUI'.
+[2023.09.30-00.47.18:759][103]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.47.18:760][103]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.47.18
+[2023.09.30-00.47.18:761][103]LogWorld: Bringing up level for play took: 0.000517
+[2023.09.30-00.47.18:761][103]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.09.30-00.47.18:765][103]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.47.18:765][103]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.47.18:765][103]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.47.18:765][103]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.47.18:765][103]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.47.18:765][103]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.47.18:765][103]PIE: Server logged in
+[2023.09.30-00.47.18:766][103]PIE: Play in editor total start time 0.091 seconds.
+[2023.09.30-00.47.21:138][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.47.21:138][328]LogWorld: BeginTearingDown for /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.47.21:139][328]LogWorld: UWorld::CleanupWorld for InputsUI, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-00.47.21:139][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.47.21:146][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-00.47.21:158][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.30-00.47.21:198][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.30-00.47.21:199][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.47.21:200][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.30-00.47.21:202][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-00.47.21:207][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.09.30-00.47.21:238][329]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.09.30-00.47.21:928][370]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-00.47.21:935][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-00.47.21:935][370]PIE: New page: PIE session: InputsUI (Sep 29, 2023, 1:47:21 PM)
+[2023.09.30-00.47.21:935][370]LogPlayLevel: Creating play world package: /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI
+[2023.09.30-00.47.21:937][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002506s)
+[2023.09.30-00.47.21:938][370]LogAIModule: Creating AISystem for world InputsUI
+[2023.09.30-00.47.21:939][370]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2023.09.30-00.47.21:939][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LazySheeps/Levels/TestInputsUI/InputsUI.InputsUI to /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI (0.003794s)
+[2023.09.30-00.47.21:983][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.09.30-00.47.21:984][370]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.30-00.47.21:984][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.30-00.47.21:984][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.30-00.47.21:984][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.30-00.47.21:984][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.30-00.47.21:984][370]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.30-00.47.21:989][370]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.30-00.47.21:989][370]LogAudioMixer: Display: 1: FrontRight
+[2023.09.30-00.47.22:004][370]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.09.30-00.47.22:004][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.30-00.47.22:004][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.30-00.47.22:004][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.30-00.47.22:005][370]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.30-00.47.22:005][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.30-00.47.22:005][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.30-00.47.22:006][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.30-00.47.22:006][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.30-00.47.22:006][370]LogInit: FAudioDevice initialized.
+[2023.09.30-00.47.22:006][370]LogAudio: Display: Audio Device (ID: 45) registered with world 'InputsUI'.
+[2023.09.30-00.47.22:016][370]LogLoad: Game class is 'CombactScene_C'
+[2023.09.30-00.47.22:018][370]LogWorld: Bringing World /Game/LazySheeps/Levels/TestInputsUI/UEDPIE_0_InputsUI.InputsUI up for play (max tick rate 0) at 2023.09.29-18.47.22
+[2023.09.30-00.47.22:018][370]LogWorld: Bringing up level for play took: 0.000488
+[2023.09.30-00.47.22:018][370]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.09.30-00.47.22:022][370]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.47.22:023][370]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.47.22:023][370]LogBlueprintUserMessages: [Test_cardsUIInput_C_0] 0
+[2023.09.30-00.47.22:023][370]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.30-00.47.22:023][370]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.09.30-00.47.22:023][370]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.09.30-00.47.22:023][370]PIE: Server logged in
+[2023.09.30-00.47.22:024][370]PIE: Play in editor total start time 0.089 seconds.
